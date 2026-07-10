@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `crypto-withdrawal_safe.os` — the correct design.
-- `crypto-withdrawal_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `crypto-withdrawal_safe.wave` — the correct design.
+- `crypto-withdrawal_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
